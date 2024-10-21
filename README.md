@@ -3,7 +3,7 @@ Analysis of NBA data from 1996 to 2022 covering player demographics, such as age
 
 
 # Objective
-This analysis aimed to dive deep into the data and perform analysis to better understand the correlations between different variables. 
+This analysis aimed to dive deep into the data to better understand correlations between variables. 
 
 
 # Key questions
@@ -27,9 +27,9 @@ Data sourced from:
 
 
 # Tools used
-The analysis was carried out using Python and the pandas, numpy, seaborn, matplotlib, folium, json, statsmodel, sklearn, pylab, and SciPy libraries. 
+The analysis was done using Python and the pandas, numpy, seaborn, matplotlib, folium, json, statsmodel, sklearn, pylab, and SciPy libraries. 
 
-A presentation summarizing findings was made in Tableau: https://public.tableau.com/app/profile/lara.weddige/viz/NBADataAnalysis_17085513168070/1_Intro
+Check out a presentation summarizing my findings in Tableau: https://public.tableau.com/app/profile/lara.weddige/viz/NBADataAnalysis_17085513168070/1_Intro
 
 
 # Scripts contents
